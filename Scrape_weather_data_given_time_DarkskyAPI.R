@@ -1,4 +1,4 @@
-setwd('C:/GitHub/Power grid resilience/weather data from darksky api')
+setwd('C:/GitHub/Power grid resilience/weather_data_from_darksky_api')
 
 # install.packages('darksky')
 library('darksky')
